@@ -96,7 +96,3 @@ Beberapa fitur yang dapat ditambahkan:
 * 💻 GUI (Java Swing / JavaFX)
 
 ---
-
-## 👤 Author
-
-**Arya Sinambela**
